@@ -9,7 +9,7 @@ This is a radio player for Sweden radio service,  you can choose your radio Stat
 
 ![android-player-2 copy](https://user-images.githubusercontent.com/7523384/211665966-063df296-fd24-4710-8ca7-a729264caa9e.jpg)
 
-![Google_Play_logo_2015V2](https://user-images.githubusercontent.com/7523384/211666261-0ab4c2a2-16be-4626-a332-3718d5d03635.png)
+[![Google_Play_logo_2015V2](https://user-images.githubusercontent.com/7523384/211666261-0ab4c2a2-16be-4626-a332-3718d5d03635.png)](https://play.google.com/store/apps/details?id=se.alvararias.myrecycleview)
 
 My website:  [alvararias](https://alvararias.se/portfolio)
 
